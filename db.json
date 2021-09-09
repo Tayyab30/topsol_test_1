@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "email": "mtayyabjaved30@gmail.com",
+        "password": "dfghujik",
+        "gender": "male",
+        "address": {
+          "state": "Tokyo",
+          "Zip": "1000000",
+          "country": "Japan"
+        },
+        "city": "Punjab",
+        "check_me": true,
+        "id": 1
+      },
+      {
+        "email": "example@gmail.com",
+        "password": "1234567890",
+        "gender": "female",
+        "address": {
+          "state": "Tokyo",
+          "Zip": "2o3993",
+          "country": "Japan"
+        },
+        "city": "Jharkhand",
+        "check_me": true,
+        "id": 2
+      }
+    ]
+  }
